@@ -1,0 +1,14 @@
+﻿  Bus_stop.cpp
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(128,20): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(129,21): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(169,20): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(170,21): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(192,20): warning C4018: '<': signed/unsigned mismatch
+F:\bork\dual lab\Bus_stop\Bus_stop\Bus_stop.cpp(193,21): warning C4018: '<': signed/unsigned mismatch
+  Bus_stop.vcxproj -> F:\bork\dual lab\Bus_stop\Debug\Bus_stop.exe
